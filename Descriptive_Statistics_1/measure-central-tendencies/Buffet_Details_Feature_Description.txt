@@ -1,0 +1,7 @@
+Here is a description of the columns in the provided dataset:
+
+Room: every entry stores a unique room number of the hotel room in which a guest is staying
+Name: every entry stores the first name of a guest
+Age: every entry stores the age of a guest in years
+Expenditure: every entry stores the total amount of money spent by a guest on their previous meal in the hotel in rupees
+Cuisine: every entry stores the type of cuisine selected by a guest in their previous meal
