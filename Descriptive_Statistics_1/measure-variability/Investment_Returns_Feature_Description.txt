@@ -1,0 +1,6 @@
+Here is a description of the columns in the provided dataset:
+
+Year: every entry stores the year for which an investment return was calculated
+George and Wallace: every entry stores the percentage return for an investment via the company "George and Wallace"
+Imperial Traders: every entry stores the percentage return for an investment via the company "Imperial Traders"
+High Rise: every entry stores the percentage return for an investment via the company "High Rise"
