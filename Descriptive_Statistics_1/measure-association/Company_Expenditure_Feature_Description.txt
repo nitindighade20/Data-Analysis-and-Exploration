@@ -1,0 +1,23 @@
+Now, suppose you are a financial analyst at a company. You have been tasked with evaluating the efficiency of the way in which the company makes various expenditures. The dataset that you have been given has features such as the amount spent by the company on marketing, human resources, and infrastructure from January 2007 to December 2008. The profits made by the company in these months have also been provided to you. By analysing the data, you need to infer where the company can improve their expenditure trends.
+
+ 
+
+
+Here is a Python exercise for you based on the problem described above. Please download the dataset and IPYNB notebook provided below.
+
+ 
+
+Company_Expenditure.csv
+
+ 
+
+Descriptive_Statistics_5_Exercise.ipynb
+
+ 
+
+Here is a description of the columns in the provided dataset:
+
+Month: every entry stores the month for which expenditure and profit values have been recorded
+Marketing: every entry stores the amount spent by the company on marketing expenditures in rupees for a specific month
+Human Resources: every entry stores the amount spent by the company on human resources (HR) expenditures in rupees for a specific month
+Infrastucture: every entry stores the amount spent by the company on infrastructure expenditures in rupees for a specific month
